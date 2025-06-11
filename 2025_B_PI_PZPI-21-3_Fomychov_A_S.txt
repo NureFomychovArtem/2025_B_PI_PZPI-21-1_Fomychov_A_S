@@ -1,0 +1,6 @@
+1) Програмна система для організації та управління груповими подорожами. Мобільний застосунок.
+2) Фомичов Артем Сергійович, ПЗПІ-21-3
+3) Колесников Дмитро Олегович
+4) 2025
+5) 2025_B_PI_PZPI-21-3_Fomychov_A_S.docx 2025_B_PI_PZPI-21-3_Fomychov_A_S.pptx 2025_B_PI_PZPI-21-3_Fomychov_A_S.zip 2025_B_PI_PZPI-21-3_Fomychov_A_S.mp4
+https://github.com/NureFomychovArtem/2025_B_PI_PZPI-21-1_Fomychov_A_S.git
